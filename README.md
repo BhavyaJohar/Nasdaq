@@ -12,7 +12,7 @@ This project aims to predicts whether nasdaq composite price will go up or down 
 - Volume
 
 ## Feature Engineering
-### To improve the model's performance, I engineer several new features:
+### To improve the model's performance, I engineered several new features:
 
 - Technical indicators such as MACD, RSI, Bollinger Bands, Stochastic Oscillator, ATR, and EMA.
 - Lag features for Close and Volume to provide historical context.
